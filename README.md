@@ -23,7 +23,6 @@ UnoP is designed to transform how you interact within your communities, streamli
 - **Group Management:** Simplify creating, joining, and managing groups.
 - **Personalized User Profiles:** Showcase user posts, followers, and following.
 - **Privacy and Control:** Manage your visibility and interaction preferences.
-- **Engagement Analytics:** Gain insights into group activities and engagement levels.
 
 ## Installation 🛠️
 
